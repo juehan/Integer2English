@@ -1,7 +1,8 @@
 ## Integer to English Conversion
 		
 Write a program that takes an integer and displays the English name of that value.
-You should support both positive and negative numbers. 
+You should support both positive and negative numbers.
+
 Toy App to feel power of TDD (Test Driven Development) using gtest (googletest) framework	
 
 ## Example
