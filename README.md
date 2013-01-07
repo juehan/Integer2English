@@ -7,7 +7,11 @@ Toy App to feel power of TDD (Test Driven Development) using gtest (googletest) 
 ## Example
 
 10 -> ten
+
 121 -> one hundred twenty one
+
 1032 -> one thousand thirty two
+
 11043 -> eleven thousand forty three
+
 1200000 -> one million two hundred thousand
